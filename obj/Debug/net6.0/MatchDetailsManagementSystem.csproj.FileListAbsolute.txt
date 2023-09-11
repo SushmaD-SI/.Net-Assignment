@@ -1,0 +1,15 @@
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.csproj.AssemblyReference.cache
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.AssemblyInfoInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.AssemblyInfo.cs
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.exe
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.deps.json
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.runtimeconfig.json
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.dll
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.pdb
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.dll
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\obj\Debug\net6.0\refint\MatchDetailsManagementSystem.dll
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.pdb
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.genruntimeconfig.cache
+C:\Users\sushma.devadiga\Documents\C#\MatchDetailsManagementSystem\obj\Debug\net6.0\ref\MatchDetailsManagementSystem.dll
